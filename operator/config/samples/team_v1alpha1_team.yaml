@@ -1,0 +1,6 @@
+apiVersion: team.alexchiri.com/v1alpha1
+kind: Team
+metadata:
+  name: team-sample
+spec:
+  # TODO(user): Add fields here
